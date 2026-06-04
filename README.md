@@ -92,3 +92,17 @@
 </div>
 
 ###
+
+<h3 align="left">-Quote<br>Necessity is the mother of invention</h3>
+
+###
+
+<div align="center">
+  <img height="226" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg3ZDRpZ3d1MDRkeXppcXRuYzh3bzVkYmVleHIwZ3lxMGp4cGNyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A1SFjoJbMx95NVXur7/giphy.gif"  />
+</div>
+
+###
+
+<p align="left">Thanks for visiting my git hub page .<br>With love collatral</p>
+
+###

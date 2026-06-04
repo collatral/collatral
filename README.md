@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Divyansh <br><br>- 🔭 I’m currently a student studying Electrical and electronics engineering .<br>- 📚 I'm currently learning about Ros, Airplanes , Music, Electronics, Heavy machinery,3d printing and Gaming<br>- ⚡ In my free time I like to learn music , tinker and learn different field of sciences and find more about my interests . I have extensive experience in 3d printer modding and printing , I love to tinker and upgrade my 3d printer.<br>---My main tools --><br> Bakon 936D soldering station<br>Owon SPE3102 Benchtop power supply<br>Ender 3 max with biqu microprobe v2 , skr mini e3 v3 ,direct drive extruder,  z dual axis<br>Laptop -Asus tuf F15 i5 10500H and 1650ti with 16 gig of 3200mhz ddr4 ram<br>Desktop -> <br>AMD Ryzen 9 7900x <br>AMD Radeon Rx7900xt<br>ACER Predator Vesta DDR5 cl 32 , 16X2 , 6000MT/S</p>
+<p align="left">I'm Divyansh <br><br>- 🔭 I'm currently a student studying Electrical and electronics engineering .<br>- 📚 I'm currently learning about Ros, Airplanes , Music, Electronics, Heavy machinery,3d printing and Gaming<br>- ⚡ In my free time I like to learn music , tinker and learn different field of sciences and find more about my interests . I have extensive experience in 3d printer modding and printing , I love to tinker and upgrade my 3d printer.<br>---My main tools --><br> Bakon 936D soldering station<br>Owon SPE3102 Benchtop power supply<br>Ender 3 max with biqu microprobe v2 , skr mini e3 v3 ,direct drive extruder,  z dual axis<br>Laptop -Asus tuf F15 i5 10500H and 1650ti with 16 gig of 3200mhz ddr4 ram<br>Desktop -> <br>AMD Ryzen 9 7900x <br>AMD Radeon Rx7900xt<br>ACER Predator Vesta DDR5 cl 32 , 16X2 , 6000MT/S</p>
 
 ###
 
@@ -72,6 +72,20 @@
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/micropython/2B2728" height="40" alt="micropython logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kicad/314CB0" height="40" alt="kicad logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white" height="40" alt="solidworks logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Fusion%20360-FF6600?style=flat-square&logo=autodesk&logoColor=white" height="40" alt="fusion360 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OrcaSlicer-44CABA?style=flat-square&logo=orca&logoColor=white" height="40" alt="orcaslicer logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Klipper-E74C3C?style=flat-square&logo=klipper&logoColor=white" height="40" alt="klipper logo"  />
 </div>
 
 ###
